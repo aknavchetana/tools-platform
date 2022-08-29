@@ -1,0 +1,15 @@
+Steps to run the FIO tool on Linux Environment:
+
+
+install fio using "sudo apt install fio"
+
+steps to RUN:
+
+download the fio_test.sh and add 
+add all the fio files in the directory where .sh file is downloaded.
+
+CHANGE the .sh file mode by : chmod +x fio_test.sh
+
+RUN the .sh file using : fio_test.sh > output_fio.txt
+
+the output of the fio tool will be stored in output_fio.txt 
